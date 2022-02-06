@@ -312,7 +312,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!70 &1082375526
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -360,6 +360,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a0454170b6094f4cbe0d76c5b7c96a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 4
+  force: 4
 --- !u!1001 &300790268828504128
 PrefabInstance:
   m_ObjectHideFlags: 0
