@@ -7,19 +7,23 @@ public class PlayerController : MonoBehaviour
 
     public int speed;
     public int force;
-    //float movement;
+    float movement;
     Rigidbody2D playerRB;
     SpriteRenderer direccion;
+    Animator MyAnim;
+
+
 
     // Start is called before the first frame update
     void Start()
     {
         playerRB = GetComponent<Rigidbody2D>();
         direccion=GetComponent<SpriteRenderer>();
+        MyAnim = GetComponent<Animator>();
     }
     private void FixedUpdate()
     {
-        float movement = Input.GetAxis("Horizontal");
+        movement = Input.GetAxis("Horizontal");
         if (movement < 0){
            // direccion.flipX = enabled;
             direccion.flipX=true;
@@ -31,7 +35,12 @@ public class PlayerController : MonoBehaviour
         }
 
         playerRB.velocity = new Vector2(movement * force, playerRB.velocity.y);
-     //   playerRB.velocity = Vector2.right *movement* speed;
+        //   playerRB.velocity = Vector2.right *movement* speed;
+
+        Debug.Log(movement);
+
+        MyAnim.SetFloat("MoveSpeed", Mathf.Abs(movement));
+
     }
 
     // Update is called once per frame
