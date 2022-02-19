@@ -900,3 +900,465 @@ System memory in use after: 166.4 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2357.
 Total: 3.362704 ms (FindLiveObjects: 0.440372 ms CreateObjectMapping: 0.173265 ms MarkObjects: 2.597882 ms  DeleteObjects: 0.148711 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002032 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.222 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.6 MB.
+System memory in use after: 166.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 2.992820 ms (FindLiveObjects: 0.250613 ms CreateObjectMapping: 0.079119 ms MarkObjects: 2.525358 ms  DeleteObjects: 0.135753 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18995.158114 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_0.png
+  artifactKey: Guid(527a4c3ea964e884c9559daac924def7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_0.png using Guid(527a4c3ea964e884c9559daac924def7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a75f03faf3a5eaf4c6509bdac4e584') in 0.086359 seconds
+  Import took 0.091668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_5.png
+  artifactKey: Guid(2f4b0bf6cde36d447a088a1c530d1a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_5.png using Guid(2f4b0bf6cde36d447a088a1c530d1a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2524c1a62afc970da32670939c9e6593') in 0.015061 seconds
+  Import took 0.020732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_10.png
+  artifactKey: Guid(461f712296535e44dbfbb03b2e265f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_10.png using Guid(461f712296535e44dbfbb03b2e265f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a8479578291a8812c20885c468c7c7a') in 0.013000 seconds
+  Import took 0.020235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000543 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_20.png
+  artifactKey: Guid(2b6b13727f8131048803df0336f0b29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_20.png using Guid(2b6b13727f8131048803df0336f0b29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31bed62b4902034b095906ce7303abd1') in 0.019887 seconds
+  Import took 0.028314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_12.png
+  artifactKey: Guid(d029dc28059aa2d489e439a90703e38b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_12.png using Guid(d029dc28059aa2d489e439a90703e38b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4727e2f3078ba1bbebae967ed5b9fe68') in 0.014669 seconds
+  Import took 0.021321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000746 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_13.png
+  artifactKey: Guid(f98e41bfe51a91042862acc7cc2623cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_13.png using Guid(f98e41bfe51a91042862acc7cc2623cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b79d4892f29e84bd50cc1937a913b8') in 0.012492 seconds
+  Import took 0.017294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_7.png
+  artifactKey: Guid(5375a1e9e93e2fe4faadfb368660d143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_7.png using Guid(5375a1e9e93e2fe4faadfb368660d143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e03bb72b0e778dc06e3f6319aaf50a40') in 0.023186 seconds
+  Import took 0.027331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_4.png
+  artifactKey: Guid(4d13e8da09d2d4e4fabc8a4eac9bb63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_4.png using Guid(4d13e8da09d2d4e4fabc8a4eac9bb63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ab9c59012caf52dfc32cfc99a6099e9') in 0.015667 seconds
+  Import took 0.019999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_16.png
+  artifactKey: Guid(3fa0b75efa35a694e9d89cccc6af694f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_16.png using Guid(3fa0b75efa35a694e9d89cccc6af694f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a58ab4c2c83fd8285e672ad2029600') in 0.023057 seconds
+  Import took 0.027782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_31.png
+  artifactKey: Guid(62ae6ce7d1c5be64180c006d06885474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_31.png using Guid(62ae6ce7d1c5be64180c006d06885474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7f6f72308e0a5a57b52c8cd429e961') in 0.015990 seconds
+  Import took 0.021987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001046 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_25.png
+  artifactKey: Guid(b318d204da8a99948801cf25ec9f1c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_25.png using Guid(b318d204da8a99948801cf25ec9f1c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b5947b3d382ba2a96e3868b3d121dd') in 0.022226 seconds
+  Import took 0.027004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_17.png
+  artifactKey: Guid(b0aefd221948b3b45bf8d36a1f51a01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_17.png using Guid(b0aefd221948b3b45bf8d36a1f51a01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac94402ab5ed5551bc265ebc5c8c9e06') in 0.027784 seconds
+  Import took 0.032212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_36.png
+  artifactKey: Guid(78931e9a420f708439f03d537af867b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_36.png using Guid(78931e9a420f708439f03d537af867b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb1768d401e8d9849183bd365f8ab0c2') in 0.019899 seconds
+  Import took 0.025973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001011 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_18.png
+  artifactKey: Guid(6e91c2485118e064fbf4b5fa96571106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_18.png using Guid(6e91c2485118e064fbf4b5fa96571106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df3a247ea08cfb4c373458f3fe2611b1') in 0.015437 seconds
+  Import took 0.020328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000760 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_11.png
+  artifactKey: Guid(58abe3f8f936b0b4397f97177e7ed13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_11.png using Guid(58abe3f8f936b0b4397f97177e7ed13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '334772b7868652651e4f6df22dc2918c') in 0.021813 seconds
+  Import took 0.027417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029138 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_6.png
+  artifactKey: Guid(9a69cdd21ab074445a01adbf3d307810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_6.png using Guid(9a69cdd21ab074445a01adbf3d307810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e86d61d9c2242ac2a0e246615c0006a') in 0.019351 seconds
+  Import took 0.024006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_24.png
+  artifactKey: Guid(d162d6ee3ff4477419471c131ba06049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_24.png using Guid(d162d6ee3ff4477419471c131ba06049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d9fce3694a13c3bc6d0ac0f8d4deb5b') in 0.016700 seconds
+  Import took 0.021388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_27.png
+  artifactKey: Guid(35a48ef2912d93648a85635fdd3292fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_27.png using Guid(35a48ef2912d93648a85635fdd3292fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e3f1a07ea487db828eaa6805e8d788') in 0.026460 seconds
+  Import took 0.031385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015341 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_19.png
+  artifactKey: Guid(eaae019ccaceab548aa06b34de9ff062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_19.png using Guid(eaae019ccaceab548aa06b34de9ff062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60eae2817e1e415a3ea8f6615a6761d5') in 0.013746 seconds
+  Import took 0.018204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000680 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_1.png
+  artifactKey: Guid(92a2dcad3dbcf3b47bffb4c51caba3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_1.png using Guid(92a2dcad3dbcf3b47bffb4c51caba3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5704ad8be2045ec656c294cb8ae8c727') in 0.016494 seconds
+  Import took 0.023871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002502 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_33.png
+  artifactKey: Guid(691fffc193285cf47963a2b19e558216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_33.png using Guid(691fffc193285cf47963a2b19e558216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c75fe8b173685f2b5d22e735ae2f509') in 0.014899 seconds
+  Import took 0.019980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_23.png
+  artifactKey: Guid(88e1df4a6d43bbf4fb2bce82e2c847bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_23.png using Guid(88e1df4a6d43bbf4fb2bce82e2c847bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6392aa9b3274cc87489a6e6507ea321a') in 0.024710 seconds
+  Import took 0.029897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_22.png
+  artifactKey: Guid(6bd4256ce7ebee44893b5c66c8a2ab68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_22.png using Guid(6bd4256ce7ebee44893b5c66c8a2ab68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdf9d1a5b360dd299ebbf2d69fe07dce') in 0.020087 seconds
+  Import took 0.025037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_34.png
+  artifactKey: Guid(054511ed2d1b7dc4b824cdf69db01a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_34.png using Guid(054511ed2d1b7dc4b824cdf69db01a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9ab7c75a5df5387c7d7fc09c1e6b85') in 0.026236 seconds
+  Import took 0.031343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_21.png
+  artifactKey: Guid(2c03e63e66bad114f8f276d9117ff3d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_21.png using Guid(2c03e63e66bad114f8f276d9117ff3d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f8f9513d2f1239b96ce078dc5d40324') in 0.016664 seconds
+  Import took 0.025126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_2.png
+  artifactKey: Guid(47adddaddf8b20846b533070bf8ea71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_2.png using Guid(47adddaddf8b20846b533070bf8ea71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd659eef98182cfafe59e1261c15e05e2') in 0.011362 seconds
+  Import took 0.015799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_15.png
+  artifactKey: Guid(0d3cb0074a2454e43bf67a16144a431b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_15.png using Guid(0d3cb0074a2454e43bf67a16144a431b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '198dcd016139d1ad89d4b8df62df9762') in 0.022233 seconds
+  Import took 0.026477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_26.png
+  artifactKey: Guid(0ef34cf3325abf44fb39747caed378ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_26.png using Guid(0ef34cf3325abf44fb39747caed378ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88537f570b65d31e311a28e57d8beb5f') in 0.014389 seconds
+  Import took 0.018953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_30.png
+  artifactKey: Guid(34bd74ad32ddc3d42bbb413014ac1363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_30.png using Guid(34bd74ad32ddc3d42bbb413014ac1363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9562afdca95ac7af616c0ab53e40bf86') in 0.012986 seconds
+  Import took 0.017110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_29.png
+  artifactKey: Guid(1dd071488234b374ab890231b5dec2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_29.png using Guid(1dd071488234b374ab890231b5dec2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43e89556f7fcfe8f64adc9cc852c7a02') in 0.017440 seconds
+  Import took 0.022319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_14.png
+  artifactKey: Guid(562bb86942ab3f74ba756654a29ab835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_14.png using Guid(562bb86942ab3f74ba756654a29ab835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2285355c946cb4d2dea14f2838d0ee2') in 0.013691 seconds
+  Import took 0.017798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_3.png
+  artifactKey: Guid(949789eebc857604fa8c002f40392526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_3.png using Guid(949789eebc857604fa8c002f40392526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e6fff65cd5eb0c63752923ae86d3c0') in 0.028945 seconds
+  Import took 0.033065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_28.png
+  artifactKey: Guid(c870b5e25ceafa94ab276e7baf4ed294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_28.png using Guid(c870b5e25ceafa94ab276e7baf4ed294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dd140ef8b15010f302f15fcef681659') in 0.015815 seconds
+  Import took 0.019197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_8.png
+  artifactKey: Guid(22bc54574c0094248ab7efabb7fd3d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_8.png using Guid(22bc54574c0094248ab7efabb7fd3d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b180427fead9dcd6777d31727a2f649a') in 0.024950 seconds
+  Import took 0.029794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_35.png
+  artifactKey: Guid(6f52aa39aa12d8443a1e9b2306cf32df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_35.png using Guid(6f52aa39aa12d8443a1e9b2306cf32df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cb61b37ce6a2a1e504730af1fe28433') in 0.015453 seconds
+  Import took 0.019495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_32.png
+  artifactKey: Guid(a1b8f9a578818c04db820d8deaea2653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_32.png using Guid(a1b8f9a578818c04db820d8deaea2653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6682862c42bd904b062496cbd7b673cb') in 0.024046 seconds
+  Import took 0.029580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_9.png
+  artifactKey: Guid(79c951a6bd2921b4a9fb02d6962aeb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_9.png using Guid(79c951a6bd2921b4a9fb02d6962aeb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41dea85e42265f141d2cbb2d7952b9c3') in 0.015809 seconds
+  Import took 0.020373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.900036 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_37.png
+  artifactKey: Guid(7f5fcafd07947e64aa541a16c4cde07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_37.png using Guid(7f5fcafd07947e64aa541a16c4cde07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e97f996cd2b4d430614333ffc22d1885') in 0.023344 seconds
+  Import took 0.031349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_38.png
+  artifactKey: Guid(7ec7e642a017f0049937a2f35aeb6001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_38.png using Guid(7ec7e642a017f0049937a2f35aeb6001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3bcd0e53aee8696dfe4c3f6582a8cd7') in 0.039388 seconds
+  Import took 0.046052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001281 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_39.png
+  artifactKey: Guid(384a377846787b741a95ee3e7f40f348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_39.png using Guid(384a377846787b741a95ee3e7f40f348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da779c80ec0acb655d042f4d0d18eb33') in 0.043820 seconds
+  Import took 0.048976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_38.png
+  artifactKey: Guid(7ec7e642a017f0049937a2f35aeb6001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_38.png using Guid(7ec7e642a017f0049937a2f35aeb6001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3bcd0e53aee8696dfe4c3f6582a8cd7') in 0.015645 seconds
+  Import took 0.019714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_37.png
+  artifactKey: Guid(7f5fcafd07947e64aa541a16c4cde07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_37.png using Guid(7f5fcafd07947e64aa541a16c4cde07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e97f996cd2b4d430614333ffc22d1885') in 0.012199 seconds
+  Import took 0.016666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_40.png
+  artifactKey: Guid(9064ed8d9d964c14abe0d09a67fe3de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_40.png using Guid(9064ed8d9d964c14abe0d09a67fe3de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052900523dd5b86f04a668258d7118ab') in 0.018110 seconds
+  Import took 0.023041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032554 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_41.png
+  artifactKey: Guid(1349ab249a4841e4e8ee15238d22f485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_41.png using Guid(1349ab249a4841e4e8ee15238d22f485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9ffbd595e18525ba289623639bcd428') in 0.016794 seconds
+  Import took 0.024178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Sprites/jump/clown_export-jump_42.png
+  artifactKey: Guid(562b33bc86f63cc4e8021371d3c55f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/jump/clown_export-jump_42.png using Guid(562b33bc86f63cc4e8021371d3c55f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8705444c9d201e6fd19ad37dcf1b7f7') in 0.046832 seconds
+  Import took 0.050295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 302.272531 seconds.
+  path: Assets/Animations/Player_AC.controller
+  artifactKey: Guid(54ef4b634e15c4f5fa8b40007ef19220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player_AC.controller using Guid(54ef4b634e15c4f5fa8b40007ef19220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79829aab6fa091adf542c40392825184') in 0.327184 seconds
+  Import took 0.331328 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002268 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.205 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.6 MB.
+System memory in use after: 171.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2368.
+Total: 2.834219 ms (FindLiveObjects: 0.282879 ms CreateObjectMapping: 0.070637 ms MarkObjects: 2.280587 ms  DeleteObjects: 0.198823 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 451.121375 seconds.
+  path: Assets/Animations/jump.anim
+  artifactKey: Guid(8cf5b92f191a54a4fad788bb18c0fb18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/jump.anim using Guid(8cf5b92f191a54a4fad788bb18c0fb18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '514ec128bae220579f7565fd5c6f2e0c') in 0.020046 seconds
+  Import took 0.024313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.930596 seconds.
+  path: Assets/Animations/cima.anim
+  artifactKey: Guid(9dd9465728daf4977b11e2f9fa729d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/cima.anim using Guid(9dd9465728daf4977b11e2f9fa729d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e020be77201be189dd0816fb55716d72') in 0.012088 seconds
+  Import took 0.019317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.518046 seconds.
+  path: Assets/Animations/caida.anim
+  artifactKey: Guid(6f93500f37b4e4c7abc191c49aa2684d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/caida.anim using Guid(6f93500f37b4e4c7abc191c49aa2684d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6351087d4f76b981a04eaad78cbee32a') in 0.009122 seconds
+  Import took 0.016557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.168323 seconds.
+  path: Assets/Animations/landing.anim
+  artifactKey: Guid(79ab3c557de59410abefe78cc7d3d5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/landing.anim using Guid(79ab3c557de59410abefe78cc7d3d5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b06e0a0a576d31e76939c99579edab0') in 0.010653 seconds
+  Import took 0.019023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.269569 seconds.
+  path: Assets/Animations/clown_export-run_0.controller
+  artifactKey: Guid(ef460c1d557d7415db7463735c5ed35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/clown_export-run_0.controller using Guid(ef460c1d557d7415db7463735c5ed35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d1e36bebbab3dbc3fcce323081ecaf') in 0.015097 seconds
+  Import took 0.021429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.823471 seconds.
+  path: Assets/Animations/clown_export-jump_21.controller
+  artifactKey: Guid(4f53c73019e004f0b8442be88363e8c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/clown_export-jump_21.controller using Guid(4f53c73019e004f0b8442be88363e8c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787b1cc4548e31cb50fbba451729d767') in 0.014738 seconds
+  Import took 0.020930 seconds .
+
